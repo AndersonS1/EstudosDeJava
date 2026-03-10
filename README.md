@@ -11,30 +11,30 @@ Este repositório contém todos os exercícios e projetos que estou desenvolvend
 
 ## 🚀 Cronograma de Estudos
 
-### ✅ Outubro – Fundamentos da Linguagem
+### ✅  – Fundamentos da Linguagem
 - [x] Variáveis, tipos primitivos e operadores
 - [x] Estruturas condicionais (`if`, `else`, `switch`)
 - [x] Laços de repetição (`for`, `while`)
 - [x] Mini-projetos com entrada de dados
 
-### 🔜 Novembro – Programação Orientada a Objetos (POO)
-- [ ] Classes e objetos
-- [ ] Construtores, métodos, encapsulamento
-- [ ] Herança e polimorfismo
+### 🔜  – Programação Orientada a Objetos (POO)
+- [x] Classes e objetos
+- [x] Construtores, métodos, encapsulamento
+- [x] Herança e polimorfismo
 
-### 🔜 Novembro – Estruturas de Dados e Coleções
-- [ ] Arrays
-- [ ] ArrayList, HashMap, HashSet
+### 🔜  – Estruturas de Dados e Coleções
+- [x] Arrays
+- [x] ArrayList, HashMap, HashSet
 
-### 🔜 Dezembro – Manipulação de Arquivos e Projeto
-- [ ] Leitura e gravação de arquivos (`File`, `Scanner`)
+### 🔜  – Manipulação de Arquivos e Projeto
+- [x] Leitura e gravação de arquivos (`File`, `Scanner`)
 - [ ] Projeto prático: sistema de tarefas
 
-### 🔜 Janeiro – Java + Banco de Dados (JDBC)
-- [ ] Conexão com MySQL/PostgreSQL
-- [ ] Operações CRUD
+### 🔜  – Java + Banco de Dados (JDBC)
+- [x] Conexão com MySQL/PostgreSQL
+- [x] Operações CRUD
 
-### 🔜 Fevereiro – Revisão e Preparação para Vagas
+### 🔜 – Revisão e Preparação para Vagas
 - [ ] Refatoração de projetos
 - [ ] Simulados de entrevista e lógica
 - [ ] Portfólio no GitHub + LinkedIn
